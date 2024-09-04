@@ -1,8 +1,42 @@
-# React + Vite
+# DeepVerify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DeepVerify is an advanced platform designed to address the challenges posed by deepfake technology. It offers tools for detecting deepfakes, validating videos, and reporting suspicious content. The site features user authentication, a statistics dashboard, and a user-friendly interface to enhance the deepfake detection process.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User Authentication:** Secure login and profile management.
+- **Detection Form:** Upload and analyze videos for deepfake detection.
+- **Statistics Dashboard:** View real-time statistics on detected deepfakes, validated videos, and reported cases.
+- **Help and Reporting:** Submit complaints and report deepfake videos with detailed forms.
+- **Dark Mode:** Toggle between light and dark modes for improved user experience.
+
+## Tech Stack
+
+- **Frontend:**
+  - React.js
+  - Tailwind CSS
+  - React Router DOM
+
+- **Backend:**
+  - Flask (Python)
+  - PyTorch (for deepfake detection models)
+
+- **Database:**
+  - Not added yet
+
+- **Deployment:**
+  - Netlify
+
+## Installation
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- Python (v3.8 or higher)
+- Pip (for Python package management)
+
+### Frontend Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/iamakashgupta/SihHack2.git
