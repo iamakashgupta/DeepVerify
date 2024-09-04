@@ -39,4 +39,4 @@ DeepVerify is an advanced platform designed to address the challenges posed by d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iamakashgupta/SihHack2.git
+   git clone https://github.com/iamakashgupta/DeepVerify.git
