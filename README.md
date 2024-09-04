@@ -22,10 +22,10 @@ DeepVerify is an advanced platform designed to address the challenges posed by d
   - PyTorch (for deepfake detection models)
 
 - **Database:**
-  - [Specify your database technology here, if applicable]
+  - Not added yet
 
 - **Deployment:**
-  - [Specify your deployment method here, e.g., Vercel, Netlify, Heroku]
+  - Netlify
 
 ## Installation
 
@@ -39,4 +39,4 @@ DeepVerify is an advanced platform designed to address the challenges posed by d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iamakashgupta/deepverify.git
+   git clone https://github.com/iamakashgupta/SihHack2.git
